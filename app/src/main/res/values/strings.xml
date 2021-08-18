@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Protect Documented Dreamers</string>
+    <string name="name">Name:</string>
+    <string name="testimonies">Testimonies</string>
+    <string name="where_i_live">Where I Live:</string>
+    <string name="prev">Prev</string>
+    <string name="time_till_i_age_out">Time till I Age Out:</string>
+    <string name="next">Next</string>
+    <string name="my_story">My Story:</string>
+</resources>

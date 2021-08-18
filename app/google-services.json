@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1071469365428",
+    "project_id": "protectlegaldreamers",
+    "storage_bucket": "protectlegaldreamers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071469365428:android:7ecd3699536327e660afe1",
+        "android_client_info": {
+          "package_name": "com.bhavey.protectlegaldreamers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071469365428-thjrc8mlir447alhbea418rcpjfvto4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bhavey.protectlegaldreamers",
+            "certificate_hash": "26957ca53ae8d33cd904fe8973fee047ff438257"
+          }
+        },
+        {
+          "client_id": "1071469365428-8m7qkugbvh83jlhtt68muihmmad8ls99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9FgkY68KzUCHK3yfERV13nv6kQL3D_TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071469365428-8m7qkugbvh83jlhtt68muihmmad8ls99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
